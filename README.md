@@ -1,7 +1,7 @@
 ## Java Swing application to upload files to FTP server with progress bar
 Swing-based application that uploads files from local computer to a remote FTP server. The application looks like this.
 
-![enter image description here](https://raw.githubusercontent.com/Aditya664/Java-Swing-FTP-Client/main/SwingFileUploadFTP%20program.png)
+![enter image description here](https://raw.githubusercontent.com/Aditya664/Java-Swing-FTP-Client/main/Capture.PNG)
 
 The following diagram describes workflow of the application:
 
