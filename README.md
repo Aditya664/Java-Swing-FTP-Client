@@ -1,10 +1,18 @@
 ## Java Swing application to upload files to FTP server with progress bar
-Swing-based application that uploads files from local computer to a remote FTP server. The application looks like this.![enter image description here](https://raw.githubusercontent.com/Aditya664/Java-Swing-FTP-Client/main/SwingFileUploadFTP%20program.png)
-The following diagram describes workflow of the application:![enter image description here](https://raw.githubusercontent.com/Aditya664/Java-Swing-FTP-Client/main/Swing%20File%20Upload%20FTP%20application%20workflow.png)
+Swing-based application that uploads files from local computer to a remote FTP server. The application looks like this.
+
+![enter image description here](https://raw.githubusercontent.com/Aditya664/Java-Swing-FTP-Client/main/SwingFileUploadFTP%20program.png)
+
+The following diagram describes workflow of the application:
+
+![enter image description here](https://raw.githubusercontent.com/Aditya664/Java-Swing-FTP-Client/main/Swing%20File%20Upload%20FTP%20application%20workflow.png)
+
 The Swing client application connects to the server via FTP protocol to transfer files. The FTP library to be used is [Apache Commons Net](https://commons.apache.org/net).
 
 The following class diagram depicts how the application is designed:
+
 ![enter image description here](https://raw.githubusercontent.com/Aditya664/Java-Swing-FTP-Client/main/SwingFileUploadFTP%20class%20diagram.png)
+
 The main classes are:
 
 -   -   `FTPUtility`: implements FTP file upload functionality.
